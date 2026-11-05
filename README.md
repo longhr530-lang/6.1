@@ -1,10 +1,9 @@
 #THÔNG TIN SINH VIÊN
 
-***Họ và tên sinh viên:** Nguyễn Hải Long
-***Mã sinh viên:** 24810320154
-***Lớp / Khóa:** D19QTANM1
-**Môn:** Lập Trình .Net
-
+## I. THÔNG TIN SINH VIÊN
+* **Họ và tên:** Nguyễn Hải Long
+* **Mã số sinh viên:** 24810320154
+* **Lớp học phần:** Lập trình .NET
 
 #HÌNH ẢNH KẾT QUẢ CÁC MÀN HÌNH CHỨC NĂNG
 
