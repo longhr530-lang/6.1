@@ -4,7 +4,7 @@
 * **Mã số sinh viên:** 24810320154
 * **Lớp học phần:** Lập trình .NET
 
-##HÌNH II.ẢNH KẾT QUẢ CÁC MÀN HÌNH CHỨC NĂNG
+## II: HÌNH ẢNH KẾT QUẢ CÁC MÀN HÌNH CHỨC NĂNG
 
 1. Màn hình Chính / Tổng quan hệ thống:![Màn hình
 chính](images/01_main_screen.png)
