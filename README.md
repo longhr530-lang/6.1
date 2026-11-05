@@ -1,12 +1,12 @@
-THÔNG TIN SINH VIÊN
+#THÔNG TIN SINH VIÊN
 
-!#Họ và tên sinh viên: Nguyễn Hải Long
-!#Mã sinh viên: 24810320154
-!#Lớp / Khóa: D19QTANM1
-!#Môn: Lập Trình .Net
+***Họ và tên sinh viên:** Nguyễn Hải Long
+***Mã sinh viên:** 24810320154
+***Lớp / Khóa:** D19QTANM1
+**Môn:** Lập Trình .Net
 
 
-HÌNH ẢNH KẾT QUẢ CÁC MÀN HÌNH CHỨC NĂNG
+#HÌNH ẢNH KẾT QUẢ CÁC MÀN HÌNH CHỨC NĂNG
 
 1. Màn hình Chính / Tổng quan hệ thống:![Màn hình
 chính](images/01_main_screen.png)
